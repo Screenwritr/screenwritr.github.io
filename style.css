@@ -11,5 +11,23 @@ h1 {
 }
 
 h2 {
-    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-family: 'Montserrat', sans-serif;
+}
+
+p {
+    font-family: 'Montserrat', sans-serif;
+    line-height: 20pt;;
+}
+
+#description {
+    margin: auto;
+    padding-top: 50px;
+    width: 70%;
+}
+
+#footer {
+    padding: 10px;
+    position: absolute;
+    left: 0;
+    bottom: 0;
 }
